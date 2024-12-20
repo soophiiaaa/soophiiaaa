@@ -33,9 +33,4 @@ Aqui estão algumas das ferramentas e tecnologias que utilizo nos meus projetos:
 
 ---
 
-## Vamos conectar? 🌐
-- 💌 **Email**: [seuemail@email.com](mailto:seuemail@email.com)
-- 🌐 **LinkedIn**: [SeuPerfil](https://linkedin.com/in/seu-perfil)
-- 🐦 **Twitter**: [@SeuTwitter](https://twitter.com/seu-twitter)
-
 Obrigado por visitar meu perfil! 😊
