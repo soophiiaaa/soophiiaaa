@@ -1,4 +1,4 @@
-# Olá, Mundo! Sou a Sophia com PH :)
+# Olá, Mundo! Sou a Sophia com PH 
 
 Bem-vindo(a) ao meu perfil no GitHub! Sou estudante de **Desenvolvimento de Sistemas** com foco em **back-end**. 
 
