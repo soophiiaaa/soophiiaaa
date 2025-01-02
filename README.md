@@ -15,12 +15,12 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou estudante de **Desenvolvimento de Sist
 ## Objetivos 🚀
 - Desenvolver APIs robustas e bem documentadas;
 - Aprender e aplicar práticas de **modelagem de dados**;
-- Participar de iniciativas e projetos que aumentem o aprendizado na tecnologia.
+- Participar de iniciativas e projetos que aumentem meu aprendizado na tecnologia.
 
 ---
 
 ## Tecnologias e Ferramentas 🛠️
-Aqui estão algumas das ferramentas e tecnologias que utilizo nos meus projetos:
+Aqui estão algumas das ferramentas e tecnologias que estudo e utilizo nos meus projetos:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -32,4 +32,4 @@ Aqui estão algumas das ferramentas e tecnologias que utilizo nos meus projetos:
 
 ---
 
-Obrigada por visitar meu perfil! 😊
+Obrigada por visitar meu perfil! 
