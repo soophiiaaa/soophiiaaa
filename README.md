@@ -1,4 +1,4 @@
-# Olá, Mundo! Sou a Sophia com PH 🦋
+# Olá, Mundo! Sou a Sophia com PH
 
 Bem-vindo(a) ao meu perfil no GitHub! Meu nome é Sophia, tenho 17 anos e atualmente sou estudante de **Desenvolvimento de Sistemas** com foco em **back-end**. 
 
@@ -7,8 +7,8 @@ Bem-vindo(a) ao meu perfil no GitHub! Meu nome é Sophia, tenho 17 anos e atualm
 ## Sobre mim 🌟
 - 🎓 **Estudante de Ensino Técnico em Desenvolvimento de Sistemas - IFAL**;
 - 📚 Aprendendo constantemente temas como **Banco de Dados**, **APIs** e **Servidores**;
-- 🌟 Focada em projetos que integram práticas de programação e desenvolvimento de software;
-- ✨ Objetivo: Me preparar para ingressar na **UFAL** no curso de **Ciência da Computação**;
+- 🌟 Focada em projetos que juntam práticas de programação e desenvolvimento de software;
+- ✨ Um dos meus maiores objetivos para esse ano é me preparar para ingressar na **UFAL** no curso de **Ciência da Computação**;
 
 ---
 
