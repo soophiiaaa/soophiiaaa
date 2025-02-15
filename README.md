@@ -1,4 +1,4 @@
-# Olá, Mundo! Sou a Sophia com PH
+# Olá, Mundo! Sou a Sophia
 
 Bem-vindo(a) ao meu perfil no GitHub! Meu nome é Sophia, tenho 17 anos e atualmente sou estudante de **Desenvolvimento de Sistemas** com foco em **back-end**. 
 
