@@ -1,6 +1,6 @@
 # Olá, Mundo!
 
-Bem-vindo(a) ao meu perfil no GitHub! Meu nome é Sophia, tenho 17 anos e atualmente sou estudante de **Desenvolvimento de Sistemas** com foco em **Back-End**. 
+Bem-vindo(a) ao meu perfil no GitHub! Meu nome é Sophia, tenho 18 anos e atualmente sou estudante de **Desenvolvimento de Sistemas** com foco em **Back-End**. 
 
 ---
 
