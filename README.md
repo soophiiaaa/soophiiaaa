@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Back-End`**
 
-Me chamo Sophia Lacerda, tenho 18 anos e sou natural de Alagoas. Atualmente, estou cursando Desenvolvimento de Sistemas no IFAL. Sou apaixonada por tecnologia e compartilho meus estudos e áreas de interesse aqui mesmo no GitHub!.
+Me chamo Sophia Lacerda, tenho 18 anos e sou natural de Alagoas. Atualmente, estou cursando Desenvolvimento de Sistemas no IFAL. Sou apaixonada por tecnologia e compartilho meus estudos e áreas de interesse aqui mesmo no GitHub!
 
 <p align="left">
     <a href="https://github.com/soophiiaaa?tab=followers">
