@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Sophia Lacerda
+# 👩🏽‍💻 Sophia Lacerda
 
 **`Desenvolvedora Back-End`**
 
