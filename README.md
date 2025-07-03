@@ -12,6 +12,13 @@ Me chamo Sophia Lacerda, tenho 18 anos e sou natural de Alagoas. Atualmente, est
             src="https://custom-icon-badges.demolab.com/github/followers/soophiiaaa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.linkedin.com/in/sophia-lacerda-buarque-magalh%C3%A3es-1660ab370/">
+        <img 
+            alt="LinkedIn" 
+            title="Me siga no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-Me%20siga%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
@@ -104,6 +111,8 @@ Me chamo Sophia Lacerda, tenho 18 anos e sou natural de Alagoas. Atualmente, est
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=soophiiaaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+
+<br/>
 
 <img 
       align="left" 
