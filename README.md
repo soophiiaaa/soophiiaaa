@@ -105,8 +105,6 @@ Me chamo Sophia Lacerda, tenho 18 anos e sou natural de Alagoas. Atualmente, est
     src="https://github-readme-stats.vercel.app/api?username=soophiiaaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
----
-
 <img 
       align="left" 
       alt="GitHub Stats" 
