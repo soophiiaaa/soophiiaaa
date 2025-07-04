@@ -4,16 +4,6 @@
 
 Me chamo Sophia Lacerda, tenho 18 anos e sou natural de Alagoas. Atualmente, estou cursando Desenvolvimento de Sistemas no IFAL. Sou apaixonada por tecnologia e compartilho meus estudos e áreas de interesse aqui mesmo no GitHub!
 
-<p align="left">
-    <a href="https://github.com/soophiiaaa?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/soophiiaaa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
