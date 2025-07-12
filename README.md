@@ -1,13 +1,21 @@
 # 👩🏽‍💻 Sophia Lacerda
 
-**`Desenvolvedora Back-End`**
+**`Developer`**
 
-Me chamo Sophia Lacerda, tenho 18 anos e sou natural de Alagoas. Atualmente, estou cursando Desenvolvimento de Sistemas no IFAL. Sou apaixonada por tecnologia e compartilho meus estudos e áreas de interesse aqui mesmo no GitHub!
+My name is Sophia Lacerda, I'm 18 years old and I'm from Alagoas. I'm currently studying Systems Development at IFAL. I'm passionate about technology and I share my studies and areas of interest right here on GitHub!
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
 <img 
     align="left" 
     alt="HTML"
@@ -84,7 +92,7 @@ Me chamo Sophia Lacerda, tenho 18 anos e sou natural de Alagoas. Atualmente, est
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
