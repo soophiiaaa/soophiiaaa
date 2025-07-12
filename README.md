@@ -4,6 +4,8 @@
 
 My name is Sophia Lacerda, I'm 18 years old and I'm from Alagoas. I'm currently studying Systems Development at IFAL. I'm passionate about technology and I share my studies and areas of interest right here on GitHub!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sophia-lacerda-buarque-magalh%C3%A3es-1660ab370/)
+
 ---
 
 ### 🤖 Languages and Technologies
