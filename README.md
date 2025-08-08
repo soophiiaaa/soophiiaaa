@@ -8,7 +8,7 @@ My name is Sophia Lacerda, I'm 18 years old and I'm from Alagoas. I'm currently 
 
 ---
 
-### 🤖 Languages and Technologies
+## 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -94,7 +94,7 @@ My name is Sophia Lacerda, I'm 18 years old and I'm from Alagoas. I'm currently 
 <br/>
 <br/>
 
-### 📊 Statistics
+## 📊 Statistics
 
 <p>
   <img 
