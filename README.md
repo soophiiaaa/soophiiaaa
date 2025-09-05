@@ -60,11 +60,11 @@ My name is Sophia Lacerda, I'm 18 years old and I'm from Alagoas. I'm currently 
 />
 <img 
     align="left" 
-    alt="MySQL"
-    title="MySQL" 
+    alt="Python"
+    title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
