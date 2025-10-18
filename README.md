@@ -1,6 +1,6 @@
 # 👩🏽‍💻 Sophia Lacerda
 
-**`Developer`**
+**`Web Developer`**
 
 My name is Sophia Lacerda, I'm 18 years old and I'm from Alagoas.  
 I'm currently studying Systems Development at IFAL. I'm passionate about technology and I share my studies and areas of interest right here on GitHub!  
