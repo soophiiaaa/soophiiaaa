@@ -28,7 +28,7 @@ Olá! Sou a Sophia, desenvolvedora focada em transformar ideias e boas práticas
 
 ### Sistemas Operacionais
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Windows 11](https://img.shields.io/badge/Windows_11-00A4EF?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/windows)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 
 ### Gerenciadores de Pacotes
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
