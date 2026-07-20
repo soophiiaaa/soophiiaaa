@@ -25,7 +25,10 @@ Olá! Sou a Sophia, desenvolvedora focada em transformar ideias e boas práticas
 ### Ferramentas
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+### Sistemas Operacionais
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Windows 11](https://img.shields.io/badge/Windows_11-00A4EF?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/windows)
 
 ### Gerenciadores de Pacotes
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
