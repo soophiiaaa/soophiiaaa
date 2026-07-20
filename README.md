@@ -32,13 +32,3 @@ Olá! Sou a Sophia, desenvolvedora focada em transformar ideias e boas práticas
 [![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)](https://getcomposer.org/)
 
 ---
-
-## 📊 Status do GitHub
-
-<div align="center">
-
-![Sophia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=soophiiaaa&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soophiiaaa&theme=tokyonight&layout=compact)
-
-</div>
-
